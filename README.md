@@ -1,4 +1,4 @@
-## Founders & Coders Application Website
+# Founders & Coders Application Website
 
 This is my application website for the **Founders and Coders** Programme in London. 
 If you don't know what that is, check out their website [here](https://foundersandcoders.com/)!

@@ -11,7 +11,7 @@ https://developess.github.io/FAC-Application-Website/
 
 This was my final website submission for my application to Founders & Coders. This was the first time I drew a complete design before coding a website and it really helped speed up the process. I also used the opportunity to learn the basics of Sketch, where I created custom SVG images and icons for this site. 
 
-The site was worked on in the first week of the course (we performed accessibility audits and implemented improvements), but the changes from my coursemates did break some of the CSS. I've raised issues and will be fixing this up before the end of the course!
+The site was worked on in the first week of the course (we performed accessibility audits and implemented improvements), and I added a couple of retouches towards the end of the course.
 
 The biggest learning point for me in building the site was animations and transitions, which was something I wanted to learn and try out (perhaps I went a little overboard there?!). 
 

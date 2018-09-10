@@ -1,15 +1,19 @@
-## Hey!
+## Founders & Coders Application Website
 
 This is my application website for the **Founders and Coders** Programme in London. 
 If you don't know what that is, check out their website [here](https://foundersandcoders.com/)!
 
-If you want to see more JavaScript from me, check out my calculator project [here](https://github.com/developess/calculator).
+## Github Pages Site
 
-I'm proud to say I learnt to code and completed this project with no help other than 
-the knowledge google, treehouse and freeCodeCamp provided me. 
 
-Thanks for reading!
+## About this Project
 
-![nerd emoji][nerd emoji]
+This was my final website submission for my application to Founders & Coders. This was the first time I drew a complete design before coding a website and it really helped speed up the process. I also used the opportunity to learn the basics of Sketch, where I created custom SVG images and icons for this site. 
 
-[nerd emoji]:https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/114/nerd-face_1f913.png
+The site was worked on in the first week of the course (we performed accessibility audits and implemented improvements), but the changes from my coursemates did break some of the CSS. I've raised issues and will be fixing this up before the end of the course!
+
+The biggest learning point for me in building the site was animations and transitions, which was something I wanted to learn and try out (perhaps I went a little overboard there?!). 
+
+The site is pure HTML & CSS, so if you want to see a little more JavaScript from me, check out my noughts and crosses project [here](https://github.com/developess/Noughts-and-Crosses).
+
+_Jessie Beech, Sept 2018_

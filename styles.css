@@ -139,7 +139,7 @@ header h1 {
 
 header button {
   background: #FFF;
-  color: #F76F1F;
+  color: rgb(182, 76, 14);
   transition: all 1s ease-out;
   border: 2px solid transparent;
 }
@@ -216,6 +216,13 @@ _______________________*/
   stroke-dasharray: 600;
   stroke-dashoffset: 0;
   animation: dash 1s linear reverse;
+}
+
+.reveal {
+  padding: 32% 20px;
+  color: white;
+  font-size: 2em;
+  text-align: center;
 }
 
 @keyframes dash {
@@ -372,10 +379,6 @@ ______________________*/
 }
 
 .reveal {
-  padding: 32% 20px;
-  color: white;
-  font-size: 2em;
-  text-align: center;
   transition: all .7s ease-in;
   opacity: 0;
 }
